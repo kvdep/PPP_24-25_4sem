@@ -1,9 +1,17 @@
 import socket
 from multiprocessing import Process
 from server_functions import client_handler
+from server_functions import init
+init()
 
+def client_handler_server(data,sock):
+    result = client_handler(data)
+    sock.sendall(result[0].encode('utf-8'))
+    sock.sendall(result[1].encode('utf-8'))
+    print('Results sent! Closing socket')
+    sock.close()
 
-def start_server(host='127.0.0.1', port=3030):
+def start_server(host='127.0.0.1', port=57394):
     server_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     server_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
     
@@ -19,15 +27,17 @@ def start_server(host='127.0.0.1', port=3030):
             
             #reading an str for client_handler(arg)
             data = ''
-            part=''
+            part=client_socket.recv(1024).decode('utf-8')
+            print('Recieving package')
             while part:
                 data+= part
                 part = client_socket.recv(1024).decode('utf-8')
-            print('Packet recieved')
-
-            process = Process(target=client_handler, args=(data,))
+                print(data)
+            print(f'Packet recieved: {data}')
+            
+            process = Process(target=client_handler_server, args=(data,client_socket,))
             process.start()
-            client_socket.close()
+            #client_socket.close()
     except KeyboardInterrupt:
         print("Server paused")
     finally:

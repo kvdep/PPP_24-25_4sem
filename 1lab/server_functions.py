@@ -85,6 +85,7 @@ def csv_handler(s):
 
 #s - полная строчка запроса. 
 def client_handler(s):
+  #print(s)
   #есть всего 3 ситуации: 
   #s = JSON_IT <=> JSON_IT - вывод json файла с названиям таблиц и их столбцами
   #s = SELECT ... <=> select-запрос
