@@ -1,11 +1,9 @@
 
 def main():
     # Ваш код здесь
-    import socket
-    import os
-    from multiprocessing import Process
-    from server_functions import client_handler
-    
+    from server import start_server
+    start_server()
+        
     
     
 
