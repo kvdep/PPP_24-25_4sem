@@ -28,5 +28,11 @@ select name as name
 from city1 as c
 where name != city
 """
+
+#s = JSON_IT <=> JSON_IT - вывод json файла с названиям таблиц и их столбцами
+#s = SELECT/select ... from ... where(optional) ...<=> select-запрос
+#s = Название|Файл <=> запись csv файла
+
+
 print(message)
 send_request_to_server(message)
