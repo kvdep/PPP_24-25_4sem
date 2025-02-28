@@ -31,12 +31,12 @@ def start_client(host="127.0.0.1", port=57394):
     print(f'Available commands:\n')
     print(f'JSON_IT <=> вывод json файла с названиям таблиц и их столбцами\nSELECT/select ... from ... where(optional) ... <=> select-запрос\nНазвание|Файл <=> запись csv файла')
     while True:
-        message = input("\nEnter your request (or 'shutdown' to quit):\n")
+        message = input("\nEnter your request (or 'shutdown' to quit):\n")+'\n'
         if message.strip().lower()[:8] == 'shutdown':
             print("Exiting client.")
             break
         while (message.strip()[-1]!=';'):
-            message+=input()
+            message+=input()+'\n'
         
 
         print('\nEstablishing connection to server.\n')
@@ -66,7 +66,24 @@ select name as name
 from city1 as c
 where name != city
 """
+"""city2|name,age,city;
+Alice,30,New York;
+Bob,25,Los Angeles;
+Charlie,35,Chicago;"""
 
+"""city4|name,age,city
+Alice,30,New York
+Bob,25,Los Angeles
+Charlie,35,Chicago"""
+
+"""cities|city4|name,age,city
+Alice,30,New York
+Bob,25,Los Angeles
+Charlie,35,Chicago"""
+"""cities|city5|name,age,city
+LAICE,30,New York
+BOBER,25,Los Angeles
+ChaRLIE,35,Chicago"""
 # s = JSON_IT <=> JSON_IT - вывод json файла с названиям таблиц и их столбцами
 # s = SELECT/select ... from ... where(optional) ...<=> select-запрос
 # s = Название|Файл <=> запись csv файла

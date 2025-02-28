@@ -9,7 +9,10 @@ init()
 def client_handler_server(data, sock):
     result = client_handler(data)
     sock.sendall(result[0].encode("utf-8"))
-    sock.sendall(result[1].encode("utf-8"))
+    try:
+        sock.sendall(result[1].encode("utf-8"))
+    except:
+        pass
     #sock.sendall(result[0])
     #sock.sendall(result[1])
     print("Results sent! Closing socket")
