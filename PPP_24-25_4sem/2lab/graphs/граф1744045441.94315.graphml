@@ -1,0 +1,2062 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d3" for="node" attr.name="shape" attr.type="string" />
+  <key id="d2" for="node" attr.name="label" attr.type="string" />
+  <key id="d1" for="node" attr.name="title" attr.type="string" />
+  <key id="d0" for="node" attr.name="color" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="https://matcalc.ru/Default.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Default.aspx</data>
+      <data key="d2">МатКальк</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Load.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Load.aspx</data>
+      <data key="d2">Загрузка</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/Works.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/Works.aspx</data>
+      <data key="d2">Курсовые работы</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Account/Login.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Account/Login.aspx</data>
+      <data key="d2">Вход на сайт МК</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/About.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/About.aspx</data>
+      <data key="d2">О сайте</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/YWorks.aspx?2008">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/YWorks.aspx?2008</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/Indexes.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/Indexes.aspx</data>
+      <data key="d2">Индексы</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/YWorks.aspx?2014">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/YWorks.aspx?2014</data>
+      <data key="d2">Курсовые года</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Account/Register.aspx?ReturnUrl=">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Account/Register.aspx?ReturnUrl=</data>
+      <data key="d2">Регистрация</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/ReadMe2019.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/ReadMe2019.aspx</data>
+      <data key="d2">МатКальк</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/YWorks.aspx?2011">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/YWorks.aspx?2011</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Publications.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Publications.aspx</data>
+      <data key="d2">МК-публикации</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Doklad_na_seminare_DADiMO.pdf">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Doklad_na_seminare_DADiMO.pdf</data>
+      <data key="d2">https://matcalc.ru/Doklad_na_seminare_DADiMO.pdf</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/MatCalc2.12.1a.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/MatCalc2.12.1a.zip</data>
+      <data key="d2">https://matcalc.ru/MatCalc2.12.1a.zip</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/YWorks.aspx?2015">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/YWorks.aspx?2015</data>
+      <data key="d2">Курсовые года</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/YWorks.aspx?2012">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/YWorks.aspx?2012</data>
+      <data key="d2">Курсовые года</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/YWorks.aspx?2009">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/YWorks.aspx?2009</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/YWorks.aspx?2016">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/YWorks.aspx?2016</data>
+      <data key="d2">Курсовые года</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/Themes.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/Themes.aspx</data>
+      <data key="d2">Темы работ</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="http://elibrary.ru/item.asp?id=29203019">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">http://elibrary.ru/item.asp?id=29203019</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/YWorks.aspx?2013">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/YWorks.aspx?2013</data>
+      <data key="d2">Курсовые года</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="javascript:__doPostBack('ctl00$MainContent$ctl00','')">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">javascript:__doPostBack('ctl00$MainContent$ctl00','')</data>
+      <data key="d2">javascript:__doPostBack('ctl00$MainContent$ctl00','')</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/Ref/Year/ALL08.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/Ref/Year/ALL08.aspx</data>
+      <data key="d2">Курсовые 2008</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX10">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX10</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-OG">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX-OG</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-TLC">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX-TLC</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-MM">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX-MM</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-MNF">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX-MNF</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-FNL">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX-FNL</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-CGS">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX-CGS</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-CHM">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX-CHM</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-PWR">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX-PWR</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-INN">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MCX-INN</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=USIB-OG">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=USIB-OG</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=USIB-En">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=USIB-En</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-Air">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-Air</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-GB">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-GB</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-MM">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-MM</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-Bio">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-Bio</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-Def">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-Def</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-NG">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-NG</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=AEX">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=AEX</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=AMX">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=AMX</data>
+      <data key="d2">https://matcalc.ru/Works/iWorks.aspx?Index=AMX</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=ATX">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=ATX</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=BEL20">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=BEL20</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=CAC40">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=CAC40</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=DAX">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=DAX</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=DJI">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=DJI</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=DJU">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=DJU</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=DJT">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=DJT</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=DJC">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=DJC</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=Euro100">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=Euro100</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=ES50-FS">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=ES50-FS</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=FTSE100">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=FTSE100</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=FTSE-MIB">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=FTSE-MIB</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=HS">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=HS</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=IBEX35">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=IBEX35</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=JC">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=JC</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=KOSPI-C">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=KOSPI-C</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=Madrid-Banks">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=Madrid-Banks</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MERV">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MERV</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MLFOY">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MLFOY</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=MSCI-Ru">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=MSCI-Ru</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=ND-Ins">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=ND-Ins</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=ND-Tel">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=ND-Tel</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=ND-In">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=ND-In</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=ND-QCOL">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=ND-QCOL</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=Nik225-EM">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=Nik225-EM</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=NY-TMT">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=NY-TMT</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=NY-ArOG">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=NY-ArOG</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=NYSE-WL-TMT">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=NYSE-WL-TMT</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=NYSE-WL-HC">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=NYSE-WL-HC</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=OBX">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=OBX</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=OSEAX">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=OSEAX</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=PhGS">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=PhGS</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=PSI20">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=PSI20</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=RTS-Std">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=RTS-Std</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SE600-B">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SE600-B</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SE600-HC">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SE600-HC</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=Sensex">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=Sensex</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP-TSX60">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP-TSX60</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-CD">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP100-CD</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-CS">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP100-CS</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-En">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP100-En</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-Fin">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP100-Fin</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-HC">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP100-HC</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-In">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP100-In</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-IT">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP100-IT</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP500-Mat">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP500-Mat</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP500-Tel">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP500-Tel</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP500-Ut">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP500-Ut</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SP500-En">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SP500-En</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SMI">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SMI</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SML">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SML</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=SSE-C">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=SSE-C</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=TC30">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=TC30</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/iWorks.aspx?Index=TSEC50">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/iWorks.aspx?Index=TSEC50</data>
+      <data key="d2">Работы по индексу</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1401.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1401.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1402.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1402.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1403.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1403.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1404.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1404.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1405.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1405.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1406.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1406.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1407.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1407.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1408.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1408.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1409.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1409.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1410.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1410.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1411.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1411.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1412.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1412.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1413.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1413.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1414.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1414.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1415.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1415.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1416.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1416.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1417.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1417.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1418.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1418.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1419.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1419.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1420.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1420.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1421.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1421.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1422.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1422.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1423.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1423.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1424.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1424.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1425.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1425.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1426.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1426.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1427.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1427.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1428.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1428.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1429.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1429.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1430.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1430.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1431.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1431.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1432.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1432.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1433.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1433.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1434.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1434.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1435.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1435.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1436.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1436.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1437.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1437.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2014/1438.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2014/1438.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/Ref/Year/ALL11.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/Ref/Year/ALL11.aspx</data>
+      <data key="d2">Курсовые 2011</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="http://sprometej.su/magazin/product/glebov-v-i-krivolapov-s-ya-praktikum-po-matematicheskoy-statistike-proverka-gipotez-s-ispolzovaniyem-excel-matcalc-r-i-python-uchebnoye-izdaniye">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">http://sprometej.su/magazin/product/glebov-v-i-krivolapov-s-ya-praktikum-po-matematicheskoy-statistike-proverka-gipotez-s-ispolzovaniyem-excel-matcalc-r-i-python-uchebnoye-izdaniye</data>
+      <data key="d2">http://sprometej.su/magazin/product/glebov-v-i-krivolapov-s-ya-praktikum-po-matematicheskoy-statistike-proverka-gipotez-s-ispolzovaniyem-excel-matcalc-r-i-python-uchebnoye-izdaniye</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://www.elibrary.ru/item.asp?id=29203019">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://www.elibrary.ru/item.asp?id=29203019</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Lib/LectMS2007a.pdf#pagemode=bookmarks&amp;page=131">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Lib/LectMS2007a.pdf#pagemode=bookmarks&amp;page=131</data>
+      <data key="d2">https://matcalc.ru/Lib/LectMS2007a.pdf#pagemode=bookmarks&amp;page=131</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Lib/PrimenenieMK.pdf">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Lib/PrimenenieMK.pdf</data>
+      <data key="d2">https://matcalc.ru/Lib/PrimenenieMK.pdf</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="http://elibrary.ru/item.asp?id=21276667">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">http://elibrary.ru/item.asp?id=21276667</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="http://elibrary.ru/item.asp?id=21671942">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">http://elibrary.ru/item.asp?id=21671942</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="http://elibrary.ru/item.asp?id=21650784">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">http://elibrary.ru/item.asp?id=21650784</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="http://elibrary.ru/item.asp?id=22279828">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">http://elibrary.ru/item.asp?id=22279828</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="http://elibrary.ru/item.asp?id=26153857">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">http://elibrary.ru/item.asp?id=26153857</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1501.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1501.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1502.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1502.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1503.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1503.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1504.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1504.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1505.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1505.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1506.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1506.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1507.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1507.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1508.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1508.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1509.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1509.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1510.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1510.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1511.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1511.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1512.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1512.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1513.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1513.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1514.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1514.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1515.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1515.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2015/1516.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2015/1516.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1201.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1201.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1202.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1202.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1203.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1203.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1204.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1204.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1205.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1205.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1206.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1206.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1207.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1207.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1208.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1208.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1209.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1209.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1210.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1210.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1211.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1211.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1212.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1212.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1213.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1213.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1214.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1214.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1215.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1215.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1216.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1216.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2012/1217.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2012/1217.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/Ref/Year/ALL09.aspx">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/Ref/Year/ALL09.aspx</data>
+      <data key="d2">Курсовые 2009</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1601.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1601.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1602.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1602.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1603.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1603.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1604.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1604.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1605.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1605.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1606.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1606.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1607.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1607.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1608.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1608.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1609.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1609.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1610.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1610.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1611.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1611.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2016/1612.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2016/1612.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08A">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08A</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08B">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08B</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08C">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08C</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08D">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08D</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08E">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08E</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08F">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08F</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08G">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08G</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08H">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08H</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08I">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08I</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08J">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08J</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08K">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08K</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08L">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08L</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08M">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08M</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08N">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08N</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08P">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08P</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08R">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08R</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08S">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08S</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08T">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08T</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08U">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08U</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08V">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08V</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08X">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08X</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08Y">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08Y</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=08Z">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=08Z</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=09A">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=09A</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=09B">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=09B</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=09C">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=09C</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=11A">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=11A</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=11B">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=11B</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=11C">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=11C</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=12A">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=12A</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=12B">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=12B</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=12C">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=12C</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=12D">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=12D</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=12E">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=12E</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=12F">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=12F</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=12G">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=12G</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=13A">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=13A</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=14B">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=14B</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=14C">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=14C</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=14D">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=14D</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=14E">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=14E</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=15A">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=15A</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=15B">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=15B</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=15C">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=15C</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=15D">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=15D</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=15E">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=15E</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=15F">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=15F</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=15G">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=15G</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=15H">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=15H</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16A">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16A</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16B">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16B</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16C">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16C</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16D">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16D</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16E">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16E</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16F">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16F</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16G">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16G</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16H">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16H</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16I">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16I</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/TWorks.aspx?Theme=16J">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/TWorks.aspx?Theme=16J</data>
+      <data key="d2">Работы по теме</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1301.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1301.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1303.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1303.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1305.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1305.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1308.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1308.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1310.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1310.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1313.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1313.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1316.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1316.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1317.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1317.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1318.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1318.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1321.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1321.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1323.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1323.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1325.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1325.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1329.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1329.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1330.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1330.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1332.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1332.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1335.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1335.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1302.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1302.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1304.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1304.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1306.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1306.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1307.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1307.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1309.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1309.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1311.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1311.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1312.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1312.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1314.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1314.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1315.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1315.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1319.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1319.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1320.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1320.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1322.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1322.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1324.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1324.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1326.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1326.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1327.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1327.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1328.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1328.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1331.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1331.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1333.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1333.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1334.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1334.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <node id="https://matcalc.ru/Works/2013/1336.zip">
+      <data key="d0">#97c2fc</data>
+      <data key="d1">https://matcalc.ru/Works/2013/1336.zip</data>
+      <data key="d2">Object moved</data>
+      <data key="d3">dot</data>
+    </node>
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Default.aspx" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Load.aspx" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Works/Works.aspx" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Account/Login.aspx" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/About.aspx" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Works/Indexes.aspx" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2014" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Account/Register.aspx?ReturnUrl=" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/ReadMe2019.aspx" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Publications.aspx" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2015" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2012" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2016" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Works/Themes.aspx" />
+    <edge source="https://matcalc.ru/Default.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2013" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Load.aspx" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Works/Works.aspx" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Account/Login.aspx" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/About.aspx" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/ReadMe2019.aspx" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/MatCalc2.12.1a.zip" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Publications.aspx" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Works/Indexes.aspx" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2014" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Account/Register.aspx?ReturnUrl=" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2015" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2012" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2016" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Works/Themes.aspx" />
+    <edge source="https://matcalc.ru/Load.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2013" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/Works.aspx" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Account/Login.aspx" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/About.aspx" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2016" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2015" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2014" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2013" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2012" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2011" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2009" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2008" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/Themes.aspx" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Works/Indexes.aspx" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Account/Register.aspx?ReturnUrl=" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/ReadMe2019.aspx" />
+    <edge source="https://matcalc.ru/Works/Works.aspx" target="https://matcalc.ru/Publications.aspx" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Account/Login.aspx" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/About.aspx" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Account/Register.aspx?ReturnUrl=" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="javascript:__doPostBack('ctl00$MainContent$ctl00','')" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Works/Indexes.aspx" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2014" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/ReadMe2019.aspx" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Publications.aspx" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2015" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2012" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2016" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Works/Themes.aspx" />
+    <edge source="https://matcalc.ru/Account/Login.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2013" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/About.aspx" />
+    <edge source="https://matcalc.ru/About.aspx" target="http://elibrary.ru/item.asp?id=29203019" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Publications.aspx" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Doklad_na_seminare_DADiMO.pdf" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Works/Indexes.aspx" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2014" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Account/Register.aspx?ReturnUrl=" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/ReadMe2019.aspx" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2015" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2012" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2016" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Works/Themes.aspx" />
+    <edge source="https://matcalc.ru/About.aspx" target="https://matcalc.ru/Works/YWorks.aspx?2013" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2008" target="https://matcalc.ru/Works/Ref/Year/ALL08.aspx" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX10" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-OG" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-TLC" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-MM" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-MNF" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-FNL" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-CGS" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-CHM" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-PWR" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MCX-INN" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=USIB-OG" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=USIB-En" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-Air" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-GB" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-MM" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-Bio" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-Def" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=AMEX-NG" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=AEX" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=AMX" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=ATX" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=BEL20" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=CAC40" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=DAX" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=DJI" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=DJU" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=DJT" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=DJC" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=Euro100" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=ES50-FS" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=FTSE100" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=FTSE-MIB" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=HS" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=IBEX35" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=JC" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=KOSPI-C" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=Madrid-Banks" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MERV" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MLFOY" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=MSCI-Ru" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=ND-Ins" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=ND-Tel" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=ND-In" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=ND-QCOL" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=Nik225-EM" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=NY-TMT" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=NY-ArOG" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=NYSE-WL-TMT" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=NYSE-WL-HC" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=OBX" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=OSEAX" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=PhGS" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=PSI20" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=RTS-Std" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SE600-B" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SE600-HC" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=Sensex" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP-TSX60" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-CD" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-CS" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-En" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-Fin" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-HC" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-In" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP100-IT" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP500-Mat" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP500-Tel" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP500-Ut" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SP500-En" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SMI" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SML" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=SSE-C" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=TC30" />
+    <edge source="https://matcalc.ru/Works/Indexes.aspx" target="https://matcalc.ru/Works/iWorks.aspx?Index=TSEC50" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1401.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1402.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1403.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1404.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1405.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1406.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1407.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1408.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1409.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1410.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1411.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1412.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1413.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1414.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1415.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1416.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1417.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1418.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1419.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1420.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1421.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1422.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1423.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1424.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1425.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1426.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1427.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1428.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1429.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1430.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1431.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1432.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1433.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1434.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1435.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1436.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1437.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2014" target="https://matcalc.ru/Works/2014/1438.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2011" target="https://matcalc.ru/Works/Ref/Year/ALL11.aspx" />
+    <edge source="https://matcalc.ru/Publications.aspx" target="http://sprometej.su/magazin/product/glebov-v-i-krivolapov-s-ya-praktikum-po-matematicheskoy-statistike-proverka-gipotez-s-ispolzovaniyem-excel-matcalc-r-i-python-uchebnoye-izdaniye" />
+    <edge source="https://matcalc.ru/Publications.aspx" target="https://www.elibrary.ru/item.asp?id=29203019" />
+    <edge source="https://matcalc.ru/Publications.aspx" target="https://matcalc.ru/Lib/LectMS2007a.pdf#pagemode=bookmarks&amp;page=131" />
+    <edge source="https://matcalc.ru/Publications.aspx" target="https://matcalc.ru/Lib/PrimenenieMK.pdf" />
+    <edge source="https://matcalc.ru/Publications.aspx" target="http://elibrary.ru/item.asp?id=21276667" />
+    <edge source="https://matcalc.ru/Publications.aspx" target="http://elibrary.ru/item.asp?id=21671942" />
+    <edge source="https://matcalc.ru/Publications.aspx" target="http://elibrary.ru/item.asp?id=21650784" />
+    <edge source="https://matcalc.ru/Publications.aspx" target="http://elibrary.ru/item.asp?id=22279828" />
+    <edge source="https://matcalc.ru/Publications.aspx" target="http://elibrary.ru/item.asp?id=26153857" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1501.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1502.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1503.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1504.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1505.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1506.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1507.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1508.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1509.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1510.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1511.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1512.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1513.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1514.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1515.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2015" target="https://matcalc.ru/Works/2015/1516.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1201.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1202.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1203.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1204.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1205.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1206.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1207.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1208.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1209.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1210.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1211.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1212.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1213.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1214.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1215.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1216.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2012" target="https://matcalc.ru/Works/2012/1217.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2009" target="https://matcalc.ru/Works/Ref/Year/ALL09.aspx" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1601.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1602.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1603.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1604.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1605.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1606.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1607.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1608.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1609.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1610.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1611.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2016" target="https://matcalc.ru/Works/2016/1612.zip" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08A" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08B" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08C" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08D" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08E" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08F" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08G" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08H" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08I" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08J" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08K" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08L" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08M" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08N" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08P" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08R" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08S" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08T" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08U" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08V" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08X" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08Y" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=08Z" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=09A" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=09B" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=09C" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=11A" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=11B" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=11C" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=12A" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=12B" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=12C" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=12D" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=12E" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=12F" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=12G" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=13A" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=14B" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=14C" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=14D" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=14E" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=15A" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=15B" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=15C" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=15D" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=15E" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=15F" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=15G" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=15H" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16A" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16B" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16C" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16D" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16E" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16F" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16G" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16H" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16I" />
+    <edge source="https://matcalc.ru/Works/Themes.aspx" target="https://matcalc.ru/Works/TWorks.aspx?Theme=16J" />
+    <edge source="http://elibrary.ru/item.asp?id=29203019" target="https://www.elibrary.ru/item.asp?id=29203019" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1301.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1303.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1305.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1308.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1310.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1313.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1316.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1317.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1318.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1321.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1323.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1325.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1329.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1330.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1332.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1335.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1302.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1304.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1306.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1307.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1309.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1311.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1312.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1314.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1315.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1319.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1320.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1322.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1324.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1326.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1327.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1328.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1331.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1333.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1334.zip" />
+    <edge source="https://matcalc.ru/Works/YWorks.aspx?2013" target="https://matcalc.ru/Works/2013/1336.zip" />
+  </graph>
+</graphml>

@@ -8,6 +8,8 @@ from pyvis.network import Network
 from fastapi.responses import HTMLResponse
 from collections import deque
 from urllib.parse import urljoin, urlparse
+import networkx as nx
+import time
 
 from app.services.scraping import *
 from app.services.graph_builder import *
@@ -25,6 +27,7 @@ async def visualize_graph(
     
     if not graph_data:
         return HTMLResponse(content="<h1>Error: Could not generate graph data</h1>")
+    
     # Создаем визуализацию
     net = Network(
         height="600px",
@@ -48,6 +51,21 @@ async def visualize_graph(
                     net.add_node(j,label=await get_title(j), title=j)
                     net.add_edge(i, j)
 
+    # Сделаем массив в который положим граф
+    G = nx.Graph()
+    for n in net.nodes:
+        G.add_node(n["id"], **{k: v for k, v in n.items() if k != "id"})
+
+    for e in net.edges:
+        G.add_edge(e["from"], e["to"], **{k: v for k, v in e.items() if k not in ("from", "to")})
+    
+    # сохраняем в graphml
+    folder = r"PPP_24-25_4sem\2lab\graphs"
+    filename = f"граф{time.time()}.graphml"
+    path = os.path.join(folder, filename)
+    # создаём папку, если нет
+    os.makedirs(folder, exist_ok=True)
+    nx.write_graphml(G, path)
 
     # Генерируем HTML
     html = net.generate_html()
