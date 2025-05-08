@@ -1,60 +1,47 @@
-from fastapi import FastAPI
 from fastapi import Query
-import httpx
-import os
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
-from pyvis.network import Network
-from fastapi.responses import HTMLResponse
 from collections import deque
 from urllib.parse import urljoin, urlparse
 
-from app.services.scraping import *
+from app.services.scraping import get_links
 
-async def make_graph(url: str = Query(..., description="URL сайта для загрузки"), max_depth = None):
-    #html = await download_site(url)
+async def make_graph(
+    url: str = Query(..., description="URL сайта для загрузки"),
+    max_depth: int = None
+):
     graph = {}
-    cur_list = await get_links(url)
-    #print(cur_list)
-    try:
-        graph.update({url:cur_list})
-    except:
-        print(f'Couldnt open the html. Closing.');return
+    visited = set()  # Для отслеживания уже обработанных узлов
+    cur_list = [url]
     cur_depth = 0
-    #print(graph)
-    next_list = set()
+
     while True:
-        print(cur_list)
-        for i in cur_list:
-            print(i)
-            #Добавим вершину в граф
-            try:
-                #html = await download_site(i)
-                #title = get_title(html,graph)
-                #Одинаковые не нужны
-                nodes = await get_links(i)
-                graph.update({i:nodes})
-                #Следующие ноды 
-                for j in nodes:
-                    if not(j in graph.keys()):
-                        next_list.add(j)
-            except:
-                try:
-                    graph[i]
-                except:
-                    graph.update({i:None})
-                continue
-
-        #Проверим текущую глубину (если задана)
-        if max_depth and cur_depth == max_depth:
+        # Проверяем, достигли ли максимальной глубины
+        if max_depth is not None and cur_depth >= max_depth:
             break
-
-        if not(next_list):
-            break
-        cur_list = list(next_list)
         next_list = set()
-        cur_depth+=1
-        print(f'\n\n\nCurrent depth: {cur_depth}\n\n\n')
-        
-    #print(graph)
+        for current_url in cur_list:
+            if current_url in visited:
+                continue
+            visited.add(current_url)
+            try:
+                # Получаем ссылки с текущей страницы
+                links = await get_links(current_url)
+                graph[current_url] = links
+                # Добавляем найденные ссылки в next_list, если они еще не обработаны
+                for link in links:
+                    if link not in visited and link not in graph:
+                        next_list.add(link)
+            except Exception as e:
+                print(f"Error processing {current_url}: {e}")
+                graph[current_url] = None
+
+
+        # Если нет новых ссылок для обработки, выходим
+        if not next_list:
+            break
+
+        # Переходим к следующему уровню
+        cur_list = list(next_list)
+        cur_depth += 1
+        print(f'Current depth: {cur_depth}')
+
     return graph

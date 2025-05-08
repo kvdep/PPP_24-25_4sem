@@ -32,7 +32,7 @@ async def visualize_graph(
     net = Network(
         height="600px",
         width="100%",
-        notebook=True,
+        notebook=False,
         cdn_resources="remote",
         select_menu=True
     )
