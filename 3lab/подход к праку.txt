@@ -1,0 +1,78 @@
+1. скачать и открыть docker desktop
+
+https://www.docker.com/blog/how-to-use-the-redis-docker-official-image/
+
+2. в терминале docker прописать docker pull redis
+
+3. start redis instance: docker run --name redis_server -d redis
+
+4. start network: docker network create some-network
+
+5. connect redis to network: docker network connect some-network redis_server
+
+6. redis cli to server container: docker run -it --network some-network --rm redis redis-cli -h redis_server
+
+
+alpine - минимальная версия linux для работы redis.
+
+remove all:
+docker stop redis_server
+docker rm redis_server
+docker network rm some-network
+
+redis-cli <=> redis command line interface <=> взаимодействие с редисом через консоль
+
+
+создать requirements.txt: pip freeze > requirements.txt
+
+
+
+
+________________________________________________________________________
+
+жить проще:
+
+
+cd 3lab
+пишем два файла: docker-compose.yml, Dockerfile (без расширения, я использовал sublime text чтобы работать без расширения)
+
+дальше копируйте без подчеркиваний
+
+docker-compose.yml:
+_________________________
+version: '3.11.9'
+
+services:
+  redis:
+    image: redis:alpine  # Официальный образ Redis
+    ports:
+      - "6379:6379"      # Проброс порта
+
+  celery-worker:
+    build: .             # Использует Dockerfile в текущей папке
+    command: celery -A app.celery.tasks worker --concurrency 4 --loglevel=info # concurrency <=> количество параллельных процессов.
+    environment:
+      - CELERY_BROKER_URL=redis://redis:6379/0  # Подключение к Redis
+    depends_on:
+      - redis           # Ждем запуска Redis
+__________________________
+
+
+
+Dockerfile:
+__________________________
+FROM python:3.11.9-alpine
+
+ENV PYTHONPATH=/app
+WORKDIR /app
+
+# Копируем зависимости и устанавливаем их
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . . 
+# COPY . 3lab/app/celery/tasks.py
+
+# если в docker-compose есть, следующую строку оставь закомментированной.
+# CMD ["celery", "-A", "tasks", "worker", "--loglevel=info"]
+__________________________

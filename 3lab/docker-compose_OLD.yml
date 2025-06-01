@@ -1,0 +1,15 @@
+version: '3.11.9'
+
+services:
+  redis:
+    image: redis:alpine  # Официальный образ Redis
+    ports:
+      - "6379:6379"      # Проброс порта
+
+  celery-worker:
+    build: .             # Использует Dockerfile в текущей папке
+    command: celery -A app.celery.tasks worker --concurrency 4 --loglevel=info # concurrency <=> количество параллельных процессов.
+    environment:
+      - CELERY_BROKER_URL=redis://redis:6379/0  # Подключение к Redis
+    depends_on:
+      - redis           # Ждем запуска Redis
